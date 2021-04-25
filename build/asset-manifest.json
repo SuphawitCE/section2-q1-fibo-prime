@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/section2-q1-fibo-prime/static/css/main.087fcb3d.chunk.css",
+    "main.js": "/section2-q1-fibo-prime/static/js/main.3d7e6822.chunk.js",
+    "main.js.map": "/section2-q1-fibo-prime/static/js/main.3d7e6822.chunk.js.map",
+    "runtime-main.js": "/section2-q1-fibo-prime/static/js/runtime-main.ae054d26.js",
+    "runtime-main.js.map": "/section2-q1-fibo-prime/static/js/runtime-main.ae054d26.js.map",
+    "static/js/2.dbe66fa5.chunk.js": "/section2-q1-fibo-prime/static/js/2.dbe66fa5.chunk.js",
+    "static/js/2.dbe66fa5.chunk.js.map": "/section2-q1-fibo-prime/static/js/2.dbe66fa5.chunk.js.map",
+    "index.html": "/section2-q1-fibo-prime/index.html",
+    "static/css/main.087fcb3d.chunk.css.map": "/section2-q1-fibo-prime/static/css/main.087fcb3d.chunk.css.map",
+    "static/js/2.dbe66fa5.chunk.js.LICENSE.txt": "/section2-q1-fibo-prime/static/js/2.dbe66fa5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae054d26.js",
+    "static/js/2.dbe66fa5.chunk.js",
+    "static/css/main.087fcb3d.chunk.css",
+    "static/js/main.3d7e6822.chunk.js"
+  ]
+}
